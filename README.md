@@ -1,3 +1,7 @@
+# EXP.NO : 10
+# NAME :MEIYAPPAN S
+# REG.NO : 212225080029
+# DATE: 24/11/2026
 # EX.NO.10-Creating-a-Custom-GPT-for-Saveetha-Engineering-College-using-OpenAI-s-GPT-Builder
 ## AIM
 To understand the concept of a Custom GPT and to design, build, configure, and publish a Custom GPT chatbot for Saveetha Engineering College (www.saveetha.ac.in) using OpenAI's GPT Builder, so that it can answer student and visitor questions about the college's courses, admissions, fees, facilities, and placements.
@@ -273,9 +277,6 @@ Click “Publish”/“Update” to finish. Copy the generated link and share it
 <img width="1691" height="682" alt="image" src="https://github.com/user-attachments/assets/e42b17c2-7f27-4dfe-9aa3-e5d090327841" />
 
 
-## RESULT
-Thus, a Custom GPT chatbot for Saveetha Engineering College was successfully designed, configured with knowledge files and instructions, tested, and published using OpenAI's GPT
-Builder.
 
 ## CONCLUSION
 
